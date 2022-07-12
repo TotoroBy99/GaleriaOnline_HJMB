@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:weightSum="100"
+	android:minHeight="25px"
+	android:minWidth="25px">
+	<Button
+		android:text="TOMAR FOTO"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="20dp"
+		android:id="@+id/btnccamara" />
+	<ImageView
+		android:src="@android:drawable/ic_menu_gallery"
+		android:layout_width="match_parent"
+		android:layout_height="184.5dp"
+		android:id="@+id/imagencamara" />
+	<Button
+		android:text="GUARDAR IMAGEN"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="20dp"
+		android:id="@+id/btncguardar" />
+
+</LinearLayout>

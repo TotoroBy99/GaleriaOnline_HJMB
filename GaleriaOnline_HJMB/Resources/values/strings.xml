@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Galeria online</string>
+    <string name="action_settings">Settings</string>
+
+  <string name="btntxt_camera"> TOMAR UNA FOTO </string>
+  <string name="btntxt_galeria"> VER FOTOS </string>
+  <string name="btntxt_adduser"> CREAR USUARIO </string>
+  <string name="btntxt_login"> INICIAR SESION </string>
+  
+  
+</resources>
